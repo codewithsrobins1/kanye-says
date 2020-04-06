@@ -13,6 +13,7 @@ https://kanye-says.netlify.com/
 ### Built With
 
 * React JS
+* Axios for GET Request
 
 ### Credit
 
