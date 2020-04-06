@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kanye-says/static/css/main.8f55968f.chunk.css",
+    "main.js": "/kanye-says/static/js/main.8b9a47eb.chunk.js",
+    "main.js.map": "/kanye-says/static/js/main.8b9a47eb.chunk.js.map",
+    "runtime-main.js": "/kanye-says/static/js/runtime-main.3fcf804d.js",
+    "runtime-main.js.map": "/kanye-says/static/js/runtime-main.3fcf804d.js.map",
+    "static/js/2.4b1c1a8e.chunk.js": "/kanye-says/static/js/2.4b1c1a8e.chunk.js",
+    "static/js/2.4b1c1a8e.chunk.js.map": "/kanye-says/static/js/2.4b1c1a8e.chunk.js.map",
+    "index.html": "/kanye-says/index.html",
+    "precache-manifest.da1dd8ea27f873c9ae0e607a2ce13739.js": "/kanye-says/precache-manifest.da1dd8ea27f873c9ae0e607a2ce13739.js",
+    "service-worker.js": "/kanye-says/service-worker.js",
+    "static/css/main.8f55968f.chunk.css.map": "/kanye-says/static/css/main.8f55968f.chunk.css.map",
+    "static/js/2.4b1c1a8e.chunk.js.LICENSE.txt": "/kanye-says/static/js/2.4b1c1a8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fcf804d.js",
+    "static/js/2.4b1c1a8e.chunk.js",
+    "static/css/main.8f55968f.chunk.css",
+    "static/js/main.8b9a47eb.chunk.js"
+  ]
+}
