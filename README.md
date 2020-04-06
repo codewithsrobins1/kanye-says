@@ -4,7 +4,7 @@ A Kanye West quote generator built using React. To generate more quotes, press t
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/kanye-says/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
