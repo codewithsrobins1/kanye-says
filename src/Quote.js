@@ -37,7 +37,7 @@ class Quote extends Component{
         } else if (this.props.votes >= 0) {
             return `/imgs/kanye-sad.png`;
         } else {
-            return `/imgs/kanye-mad.png`;
+            return `/imgs/kanye-mad.jpg`;
         }
     }
 
@@ -57,7 +57,7 @@ class Quote extends Component{
                 </div>
 
                 <div className="Quote-smiley">
-                    <img src={this.getEmoji()} />
+                    <img src={this.getEmoji()} alt="kanye-mood" />
                 </div>
             </div>
         )
