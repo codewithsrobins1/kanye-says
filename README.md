@@ -47,6 +47,6 @@ npm install i
 To help visualize the structure of the components, please reference the below structure,
 
 -App.js
-  -QuoteList.js
+  - QuoteList.js
     - Quote.js
 
