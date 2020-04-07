@@ -1,10 +1,10 @@
 # Kanye Says
 
-A Kanye West quote generator built using React. To generate more quotes, press the 'Ye Preach' button. Upvotes and downvotes can be given to change Kanye's mood.
+A Kanye West quote generator built using React. To generate more quotes, press the 'Ye Preach' button. Upvotes and downvotes can be given to change Kanye's facial expression.
 
 ## Demo
 
-![demo](https://github.com/codewithsrobins1/palette-picker/blob/master/readMeGif.gif?raw=true)
+![demo](https://github.com/codewithsrobins1/kanye-says/blob/master/readMeGif.gif?raw=true)
 
 ## Link to Live Site
 
